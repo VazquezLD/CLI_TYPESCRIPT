@@ -1,1 +1,1 @@
-*CLI (Command-Line Interface) basica para crear y mostrar usuarios simulando una base de datos con FileSystem y archivo JSON.
+*CLI (Command-Line Interface) básica para crear y mostrar usuarios simulando una base de datos con FileSystem(FS), libreria inquirer y archivo JSON.
